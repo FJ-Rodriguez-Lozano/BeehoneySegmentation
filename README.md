@@ -21,4 +21,4 @@ IEEE format: .
 APA format: .
 
 ## Dataset link
-The dataset requires approximately 190 GB of disk space, and it is available at the following web [Link](https://drive.google.com/file/d/1X-zKIDUBxo5zZ5cbTbMBxr97cCm5nnH-/view?usp=drive_link).
+The dataset requires approximately 12 GB of free disk space, and it is available at the following web [Link](https://drive.google.com/file/d/1X-zKIDUBxo5zZ5cbTbMBxr97cCm5nnH-/view?usp=drive_link).
