@@ -5,14 +5,14 @@ BeehoneySegmentation is a collection of images of honeycombs of apis mellifera b
 More information about the aim of our work can be found in our paper. If you use this dataset, make sure you cite this work as:
 Latex:
 ```latex
-@article{Rodriguez_Lozano_2024,
+@article{Rodriguez_Lozano_2024_CAEIA_1,
 	doi = {},
 	url = {},
 	year = 2024,
 	month = {},
 	publisher = {}},
-	author = {},
-	title = {},
+	author = {Rodriguez-Lozano, Francisco J. and Geninatti, Sergio R. and Flores, José M. and Quiles-Latorre, Francisco J. and Ortiz-Lopez, Manuel},
+	title = {Capped honey segmentation in honey combs based on deep learning approach},
 	journal = {}
 }
 ```
@@ -29,9 +29,15 @@ After downloading and unzipping the zip file from the previous link, you can fin
 ***- Test_images:*** Set of images used to test the performance of the methods tested in the paper with data that have not been used for training.
 
 ***- Test_predictions:*** Prediction results of all methods tested in the paper for the test set.
+
 ***- Trained_models:*** Models trained with the training and validation set for use and comparison.
+
 ***- Train_images:*** Set of images used to train the models.
+
 ***- Training_loss_evolution:*** Binary cross-entropy loss values evolution per epoch for training stage for all tested methods in the paper.
+
 ***- Train_predictions:*** Prediction results of all methods tested in the paper for the training set.
+
 ***- Validation_images:*** Set of images used to test the performance in the training stage.
+
 ***- Validation_predictions:*** Prediction results of all methods tested in the paper for the validation set.
