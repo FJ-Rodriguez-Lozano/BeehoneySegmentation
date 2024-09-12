@@ -27,6 +27,7 @@ The dataset requires approximately 12 GB of free disk space, and it is available
 After downloading and unzipping the zip file from the previous link, you can find the following folders:
 
 ***- Test_images:*** Set of images used to test the performance of the methods tested in the paper with data that have not been used for training.
+
 ***- Test_predictions:*** Prediction results of all methods tested in the paper for the test set.
 ***- Trained_models:*** Models trained with the training and validation set for use and comparison.
 ***- Train_images:*** Set of images used to train the models.
